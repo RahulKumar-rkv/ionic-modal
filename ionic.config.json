@@ -1,6 +1,8 @@
 {
   "name": "ASMLight",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular",
   "id": "29db3d65"
 }
